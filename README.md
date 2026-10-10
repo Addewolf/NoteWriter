@@ -3,6 +3,10 @@
 NoteWriter is a small Android app for writing timestamped notes and saving them
 as ordinary UTF-8 `.txt` files. Requires **Android 6.0 or newer** (API 23).
 
+## Screenshot
+
+<img src="docs/screenshots/notewriter-v0.1.jpg" alt="NoteWriter v0.1 on an Android phone, showing the date and time, header, text area, and Note button" width="300">
+
 ## Features
 
 - Automatic local date and time, an editable header, and a large writing area.
