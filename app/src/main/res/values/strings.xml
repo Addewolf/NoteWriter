@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note Writer</string>
+    <string name="header">Header</string>
+    <string name="text">Text</string>
+    <string name="header_hint">Note title</string>
+    <string name="text_hint">Write your note here</string>
+    <string name="note">Note</string>
+    <string name="saved">Note saved</string>
+    <string name="save_failed">Could not save. Your text is still here; please try again.</string>
+    <string name="picker_missing">No system file picker is available on this device.</string>
+    <string name="timestamp">Date: %1$s    Time: %2$s</string>
+</resources>
